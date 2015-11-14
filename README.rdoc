@@ -1,4 +1,4 @@
 This Clone was made as a Ruby on Rails Tutorial and styled using Bootstrap. 
 There is special emphasis on Users with Devise gem, Pins, Image Uploading using Paperclip gem, Voting with acts_as_votable gem, Masonry jQuery and HAML.
 
-Go to www.crashlearner.com for more info/tutorials.
+
